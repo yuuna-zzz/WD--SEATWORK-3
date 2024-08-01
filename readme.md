@@ -49,9 +49,6 @@
 
 ## Overview
 
-Description of the project in details.
-
-Guiding Question:
 <h4>What is the project</h4>
 <p>This activity explores and shows five distinct styles using HTML and CSS. This activity serves as a comprehensive exercise in applying different design aesthetics and techniques to similar content, allowing users to compare and contrast the effects of various styling approaches.</p>
 
