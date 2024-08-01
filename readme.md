@@ -58,14 +58,12 @@
 Description of the project in details.
 
 Guiding Question:
- What is the project
-This activity explores and shows five distinct styles using HTML and CSS. This activity serves as a comprehensive exercise in applying different design aesthetics and techniques to similar content, allowing users to compare and contrast the effects of various styling approaches.
+<h4>What is the project</h4>
+<p>This activity explores and shows five distinct styles using HTML and CSS. This activity serves as a comprehensive exercise in applying different design aesthetics and techniques to similar content, allowing users to compare and contrast the effects of various styling approaches.</p>
 
-Whats the purposeThe purpose of this project
-The purpose of this activity is to illustrate the use of HTML and CSS in creating varied visual presentations. It provides a hands-on learning experience to practice and improve HTML and CSS skills. Furthermore, it emphasizes how different styles can impact a web page's experience and visual appeal.
+<h5>Whats the purpose</h5>
+<p>The purpose of this activity is to illustrate the use of HTML and CSS in creating varied visual presentations. It provides a hands-on learning experience to practice and improve HTML and CSS skills. Furthermore, it emphasizes how different styles can impact a web page's experience and visual appeal.</p>
 
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -78,7 +76,6 @@ The purpose of this activity is to illustrate the use of HTML and CSS in creatin
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
