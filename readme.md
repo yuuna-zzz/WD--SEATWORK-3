@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/yuuna-zzz/">
+  
+    <img src="./assets/img/Chi.png" alt="Chi" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">Seatwork 3</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  This project showcases an activity with five distinct styles. It demonstrates various design and implementation approaches to achieve unique visual and functional outcomes. Perfect for understanding how different styles can be applied to similar tasks, enhancing both design and coding skills.
 </div>
 
 <br />
@@ -21,8 +21,6 @@
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
-
----
 
 <br />
 <br />
@@ -60,8 +58,12 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
+ What is the project
+This activity explores and shows five distinct styles using HTML and CSS. This activity serves as a comprehensive exercise in applying different design aesthetics and techniques to similar content, allowing users to compare and contrast the effects of various styling approaches.
+
+Whats the purposeThe purpose of this project
+The purpose of this activity is to illustrate the use of HTML and CSS in creating varied visual presentations. It provides a hands-on learning experience to practice and improve HTML and CSS skills. Furthermore, it emphasizes how different styles can impact a web page's experience and visual appeal.
+
 - What are key components
 - What technology used and how it is used
 
@@ -113,8 +115,4 @@ WD-ProjectName
 ```
 
 ## Resources
-
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+https://www.w3schools.com/

@@ -1,0 +1,67 @@
+body {
+    font: Arial, sans-serif;
+    background-color: rgb(219, 134, 148);
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: pink;
+    box-shadow: 0 0 10px(0,0,0,0.1);
+}
+
+h1 {
+    color: black;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer {
+    width: 100%;
+    padding: 20px;
+    margin: 10px 0;
+    background-color: black;
+    color: pink;
+    border-radius: 5px;
+}
+
+.style1 { background-color: rgb(244, 217, 208);
+    font-size: 20px;
+    color: rgb(146, 26, 64);
+}
+.style2 { background-color: rgb(217, 171, 171);
+    font-size: 15px;
+    color: black;
+}
+.style3 { background-color: palevioletred;
+    font-size: 25px;
+    color: rgb(244, 217, 208);
+}
+.style4 { background-color: rgb(199, 91, 122) ;
+    font-size: 20px;
+    color: white;
+}
+.style5 { background-color: rgb(146, 26, 64);
+    font-size: 15;
+    color: black;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: pink;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.btn:hover {
+    background-color: black;
+}
